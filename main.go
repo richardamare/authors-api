@@ -1,8 +1,8 @@
 package main
 
 import (
+	"authors-api/controller"
 	"github.com/gin-gonic/gin"
-	"golang-api/controller"
 )
 
 func main() {
